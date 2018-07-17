@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ThreadHandlerAsyncTaskDemo</string>
+    <string name="title_splash_activity">Splash Activity</string>
 </resources>
